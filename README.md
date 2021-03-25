@@ -1,3 +1,7 @@
+## Credenciales de prueba: 
+  Usuario: test@mail.com
+  Contraseña : password
+
 # 2.2 Spring Boot Secure API
 
 **Goals**

@@ -11,8 +11,8 @@ export class UserInfo extends Component {
     constructor(props){
         super(props);
         this.state = {src : 'https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png',
-                    name : localStorage.name,
-                    email : localStorage.email};
+                    name : "Test",
+                    email : "test@mail.com"};
         this.handleRedirection = this.handleRedirection.bind(this);
     }
     
